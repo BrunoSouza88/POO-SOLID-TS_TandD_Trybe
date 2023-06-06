@@ -1,4 +1,4 @@
-import Fighter, { SimpleFighter } from './Fighter';
+import { SimpleFighter } from './Fighter';
 
 export default class Monster implements SimpleFighter {
   protected _lifePoints: number;
@@ -34,7 +34,7 @@ export default class Monster implements SimpleFighter {
     return currentLife;
   }
 
-  attack(enemy: Fighter | SimpleFighter): void {
+  attack(enemy: SimpleFighter): void {
     enemy.receiveDamage(this._strength);
   }
 }
