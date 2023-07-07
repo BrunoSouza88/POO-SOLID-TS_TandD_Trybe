@@ -1,89 +1,64 @@
-# EN:
-# Trybers And Dragons Project
+<h1>Trybers & Dragons</h1>
 
+<p>This is a project that implements Object-Oriented Programming (OOP) principles and SOLID design principles using TypeScript.</p>
 
-## What was developed?
-For this project, the principles of the SOLID architecture and OOP principles were applied to a role-playing game structure, commonly known as RPG (Role Playing Game).
+<h2>Prerequisites</h2>
 
-## What do I need to know to do the project?
+<p>Before you begin, ensure that you meet the following requirements:</p>
 
-- Understand what classes, objects, methods, and attributes are.
-- Understand what an abstract class is.
-- Understand what inheritance is.
-- Understand what polymorphism is.
-- Understand what encapsulation is.
-- Understand what a static method is.
+<ul>
+  <li>Have Node.js installed: <a href="https://nodejs.org/en/download/">Node.js Downloads</a>.</li>
+  <li>Have TypeScript installed: <a href="https://www.typescriptlang.org/">TypeScript</a>.</li>
+</ul>
 
-## Skills for the project
+<h2>Installation</h2>
 
-### _These skills will be required to complete the project_:
+<p>Follow these steps to set up and run the project locally:</p>
 
-## Mandatory Project Requirements
+<ol>
+  <li>Clone the repository:</li>
 
-- 1 Create the Race class.
-- 2 Create classes that inherit from Race.
-- 3 Create the Energy interface.
-- 4 Create the Archetype class.
-- 5 Create classes that inherit from Archetype.
-- 6 Create the Fighter interface.
-- 7 Create the Character class.
-- 8 Create the SimpleFighter interface.
-- 9 Create the Monster class.
-- 10 Create the PVP class.
+  <pre><code>git clone https://github.com/BrunoSouza88/POO-SOLID-TS_TandD_Trybe.git</code></pre>
 
-## Bonus Requirements
+  <li>Navigate to the project directory:</li>
 
-- 11 Create the PVE class.
-- 12 Create the Dragon class.
-- 13 Create objects in the index file.
-<br><br><br>
+  <pre><code>cd POO-SOLID-TS_TandD_Trybe</code></pre>
 
-# PT-BR:
-# Projeto Trybers And Dragons
-## O que foi desenvolvido?
-Para este projeto, foi aplicado os princípios da arquitetura SOLID e os princípios de POO em uma estrutura de jogos de interpretação de papéis, mais conhecidos como jogos RPG (Role Playing Game).
+  <li>Install the dependencies:</li>
 
-## O que preciso saber para fazer o projeto?
+  <pre><code>npm install</code></pre>
 
-- Entender o que são classes, objetos, métodos e atributos;
-- Entender o que é uma classe abstrata;
-- Entender o que é herança;
-- Entender o que é polimorfismo;
-- Entender o que é encapsulamento;
-- Entender o que é um método estático;
+  <li>Compile the TypeScript code:</li>
 
-## Habilidades para o projeto
+  <pre><code>tsc</code></pre>
 
-### _Vão ser necessárias para realização do projeto_:
+  <li>Start the application:</li>
 
-## Requisitos obrigatórios do Projeto
+  <pre><code>npm start</code></pre>
+</ol>
 
-- 1 Crie a classe Race
-- 2 Crie classes que herdam de Race
-- 3 Crie a interface Energy
-- 4 Crie a classe Archetype
-- 5 Crie classes que herdam de Archetype
-- 6 Crie a interface Fighter
-- 7 Crie a classe Character
-- 8 Crie a interface SimpleFighter
-- 9 Crie a classe Monster
-- 10 Crie a classe PVP
+<h2>Usage</h2>
 
-## Requisitos Bônus
+<p>The application demonstrates the usage of OOP and SOLID principles in TypeScript. Explore the code and refer to the provided documentation to understand the implementation details.</p>
 
-- 11 Criar a classe PVE
-- 12 Crie a classe Dragon
-- 13 Crie objetos no arquivo index
-<br><br><br>
-# Qualquer Dúvida me contate abaixo:
-## :phone: Contact:
-<section>
-  <p style="background-color:#f5f5f5" class="connection-container">
-    <a href="https://www.linkedin.com/in/bruno-m-souza/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-    </a>
-    <a href="mailto:bmsouza88@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
-    </a>
-  </p>
-</section>
+<h2>Contributing</h2>
+
+<p>Contributions are what make the open-source community a fantastic place to learn, inspire, and create. Any contributions you make are greatly appreciated.</p>
+
+<ol>
+  <li>Fork the project.</li>
+  <li>Create a branch for your feature (<code>git checkout -b feature/AmazingFeature</code>).</li>
+  <li>Commit your changes (<code>git commit -m 'Add some amazing feature'</code>).</li>
+  <li>Push to the branch (<code>git push origin feature/AmazingFeature</code>).</li>
+  <li>Open a Pull Request.</li>
+</ol>
+
+<h2>License</h2>
+
+<p>This project is licensed under the <a href="LICENSE">MIT License</a>.</p>
+
+<h2>Contact</h2>
+
+<p>Bruno Souza - <a href="mailto:bmsouza88@gmail.com">bmsouza88@gmail.com</a></p>
+
+<p>Project Link: <a href="https://github.com/BrunoSouza88/POO-SOLID-TS_TandD_Trybe">https://github.com/BrunoSouza88/POO-SOLID-TS_TandD_Trybe</a></p>
