@@ -1,14 +1,22 @@
 <h1>Trybers & Dragons</h1>
 
-<p>This is a project that implements Object-Oriented Programming (OOP) principles and SOLID design principles using TypeScript.</p>
+<p>This is a project that focuses on implementing Object-Oriented Programming (OOP) principles and SOLID design principles using TypeScript. The project is developed as part of the T&D (Training and Development) program at Trybe.</p>
+
+<h2>Technologies Used</h2>
+
+<p>The project utilizes the following technologies:</p>
+
+<ul>
+  <li>TypeScript</li>
+  <li>Node.js</li>
+</ul>
 
 <h2>Prerequisites</h2>
 
 <p>Before you begin, ensure that you meet the following requirements:</p>
 
 <ul>
-  <li>Have Node.js installed: <a href="https://nodejs.org/en/download/">Node.js Downloads</a>.</li>
-  <li>Have TypeScript installed: <a href="https://www.typescriptlang.org/">TypeScript</a>.</li>
+  <li>Have Node.js and TypeScript installed.</li>
 </ul>
 
 <h2>Installation</h2>
@@ -28,18 +36,18 @@
 
   <pre><code>npm install</code></pre>
 
-  <li>Compile the TypeScript code:</li>
+  <li>Compile the TypeScript files:</li>
 
   <pre><code>tsc</code></pre>
 
-  <li>Start the application:</li>
+  <li>Run the compiled JavaScript file:</li>
 
-  <pre><code>npm start</code></pre>
+  <pre><code>node dist/index.js</code></pre>
 </ol>
 
 <h2>Usage</h2>
 
-<p>The application demonstrates the usage of OOP and SOLID principles in TypeScript. Explore the code and refer to the provided documentation to understand the implementation details.</p>
+<p>The project provides practical examples and exercises to understand and apply Object-Oriented Programming (OOP) principles and SOLID design principles using TypeScript. It covers topics such as encapsulation, inheritance, polymorphism, and dependency inversion, along with concepts like single responsibility principle, open/closed principle, and interface segregation principle.</p>
 
 <h2>Contributing</h2>
 
