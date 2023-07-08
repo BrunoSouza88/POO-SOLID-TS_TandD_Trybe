@@ -1,14 +1,14 @@
-<h1>Trybers & Dragons</h1>
+<h1>Trybers & Dragons 🐉</h1>
 
 <p>This is a project that focuses on implementing Object-Oriented Programming (OOP) principles and SOLID design principles using TypeScript. The project is developed as part of the T&D (Training and Development) program at Trybe.</p>
 
-<h2>Technologies Used</h2>
+<h2>Technologies Used 🛠️</h2>
 
 <p>The project utilizes the following technologies:</p>
 
 <ul>
-  <li>TypeScript</li>
-  <li>Node.js</li>
+  <li>TypeScript 🟦</li>
+  <li>Node.js ⚙️</li>
 </ul>
 
 <h2>Prerequisites</h2>
@@ -45,11 +45,11 @@
   <pre><code>node dist/index.js</code></pre>
 </ol>
 
-<h2>Usage</h2>
+<h2>Usage 🚀</h2>
 
-<p>The project provides practical examples and exercises to understand and apply Object-Oriented Programming (OOP) principles and SOLID design principles using TypeScript. It covers topics such as encapsulation, inheritance, polymorphism, and dependency inversion, along with concepts like single responsibility principle, open/closed principle, and interface segregation principle.</p>
+<p>The project provides practical examples and exercises to understand and apply Object-Oriented Programming (OOP) principles and SOLID design principles using TypeScript. It covers topics such as encapsulation, inheritance, polymorphism, and dependency inversion, along with concepts like single responsibility principle, open/closed principle, and interface segregation principle. 🚀</p>
 
-<h2>Contributing</h2>
+<h2>Contributing 🤝</h2>
 
 <p>Contributions are what make the open-source community a fantastic place to learn, inspire, and create. Any contributions you make are greatly appreciated.</p>
 
@@ -61,12 +61,12 @@
   <li>Open a Pull Request.</li>
 </ol>
 
-<h2>License</h2>
+<h2>License 📜</h2>
 
 <p>This project is licensed under the <a href="LICENSE">MIT License</a>.</p>
 
-<h2>Contact</h2>
+<h2>Contact 📧</h2>
 
-<p>Bruno Souza - <a href="mailto:bmsouza88@gmail.com">bmsouza88@gmail.com</a></p>
+<p>Bruno Souza - <a href="mailto:bmsouza88@gmail.com">bmsouza88@gmail.com</a> ✉️</p>
 
-<p>Project Link: <a href="https://github.com/BrunoSouza88/POO-SOLID-TS_TandD_Trybe">https://github.com/BrunoSouza88/POO-SOLID-TS_TandD_Trybe</a></p>
+<p>Project Link: <a href="https://github.com/BrunoSouza88/POO-SOLID-TS_TandD_Trybe">https://github.com/BrunoSouza88/POO-SOLID-TS_TandD_Trybe</a> 🌐</p>
